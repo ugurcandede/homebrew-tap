@@ -15,13 +15,13 @@ Homebrew formulae for [TapLock](https://github.com/ugurcandede/taplock) — temp
 ### CLI
 
 ```bash
-brew tap ugurcandede/taplock
+brew tap ugurcandede/tap
 brew install taplock
 ```
 
 ### Menu Bar App
 
 ```bash
-brew tap ugurcandede/taplock
+brew tap ugurcandede/tap
 brew install --cask taplock-app
 ```
