@@ -1,6 +1,6 @@
 cask "sotto" do
   version "0.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "4d38f406b4402e1f46f37143f563ef2d83f74be13f57720671e2a71832616f1f"
 
   url "https://github.com/ugurcandede/sotto/releases/download/v#{version}/sotto-macos.zip"
   name "sotto"
