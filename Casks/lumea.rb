@@ -1,6 +1,6 @@
 cask "lumea" do
-  version "2.6.0"
-  sha256 "b9e8142441bd897d7d5e9e3ad78d72654186a72f63faca30c0ad5e96c0cbca7e"
+  version "2.6.1"
+  sha256 "f5a77f68a1e3a98c3c968c49766f9f2bf78271cc87b023dcf4ddaa4427ba36f7"
 
   url "https://github.com/ugurcandede/lumea/releases/download/v#{version}/Lumea-macos-arm64.zip"
   name "Lumea"
