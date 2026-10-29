@@ -19,8 +19,8 @@ cask "sotto" do
 
   caveats <<~EOS
     sotto needs no permissions to mute your microphone.
-    Assigning the microphone key (F5) remaps it with hidutil so it mutes instead
-    of starting Dictation.
+    Assigning the microphone key (F5) remaps it at the HID layer so it mutes
+    instead of starting Dictation.
     The remap is removed when you pick another key or quit sotto, and it never
     survives a logout.
   EOS
